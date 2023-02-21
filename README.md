@@ -1,4 +1,4 @@
-### 07734 there :dizzy:
+### Hi there :dizzy:
 
 - 🔭 I’m currently working on [OpenFCST](https://github.com/OpenFCST/OpenFCSTv03) and [Red-Green mobile app](https://github.com/andreyxdd "link is coming soon")
 - 🌱 I’m currently learning DevOps/MLOps
