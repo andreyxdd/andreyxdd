@@ -1,1 +1,1 @@
-### Hi there :dizzy:
+:dizzy:
